@@ -1,9 +1,6 @@
 # docs
-```
-> This repository contains the documentations for the Evanesco Protocol and associated subsystems.It is comprised of protocol specs，technical disscusion, and docs from evanasco working group.
-```
+>  This repository contains the documentations for the Evanesco Protocol and associated subsystems.It is comprised of protocol stack specs，technical disscusion, and docs from evanasco working group.
 
-```
 ## Spec badges and lifecycle
 
 We use the following label system to identify the state of each spec:
@@ -15,7 +12,6 @@ We use the following label system to identify the state of each spec:
 - ![](https://img.shields.io/badge/status-permanent-blue.svg?style=flat-square) - This spec will not change.
 - ![](https://img.shields.io/badge/status-deprecated-red.svg?style=flat-square) - This spec is no longer in use.
 
-```
 ## Index
 
 The docs contained in this repository are:
