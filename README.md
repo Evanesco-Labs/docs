@@ -22,8 +22,7 @@ The docs contained in this repository are:
 - **Carrier:** - docs of PoW miner and privacy router
 - **Flow** -  p2p communication for double layer network 
 - **Sorter** - validator based on Substrate
-
 - **CrossChain:** - docs of crosschain mechanism and draft
-
+- **xv-crypto** - core crypto algorithm in XV-core framework, include demos, papers, proposals and test results
 ## Contributing
 Thank you for considering contributing to Evanesco. We welcome any individuals and organizations on the Internet to participate in this open source project.
