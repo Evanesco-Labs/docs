@@ -19,10 +19,14 @@ The docs contained in this repository are:
 - **Protocols** - the spec and the stack 
 - **Protocols/SDK** - evanesco protocol SDK
 - **Protocols/API:** - the restful api include different language
-- **Carrier:** - docs of PoW miner and privacy router
+- **Carrier:** - docs of privacy router within whiteniose network
 - **Flow** -  p2p communication for double layer network 
 - **Sorter** - validator based on Substrate
+- **Miner** - docs of envanesco PoW miner protocol
 - **CrossChain:** - docs of crosschain mechanism and draft
 - **xv-crypto** - core crypto algorithm in XV-core framework, include demos, papers, proposals and test results
+- **WhiteNoise** - doc of privacy p2p network protocol 
+- **WhiteNoise-For-Sol** - docs of privacy p2p network protocol for Solana ecosystem
+
 ## Contributing
 Thank you for considering contributing to Evanesco. We welcome any individuals and organizations on the Internet to participate in this open source project.
